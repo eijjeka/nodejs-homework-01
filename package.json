@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-homework-01",
+  "version": "1.0.0",
+  "description": "nodejs-homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eijjeka/nodejs-homework-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eijjeka/nodejs-homework-01/issues"
+  },
+  "homepage": "https://github.com/eijjeka/nodejs-homework-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
